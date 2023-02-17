@@ -1,0 +1,21 @@
+body{
+background-color: #70BAFF;
+}
+
+.texto{
+font-family: "Tangerine", sans-serif;
+font-size: 40px;
+text-align: center;
+color: #FE0879;
+}
+
+a{
+font-family: "Tangerine", Copperplate;
+font-size: 25px;
+text-align: center;
+color: #FE0879;
+}
+
+a:hover {
+  background-color: #FED715;
+}
