@@ -1,0 +1,18 @@
+.fondo {
+	background-color: #FF82E2;
+}
+
+h1 {
+	color: #0037B3;
+	font-size: 40px;
+}
+
+a {
+	font-size: 25px;
+	color: #0037B3;
+}
+
+body {
+	font-family: 'Tangerine';
+	text-align: center;
+}
